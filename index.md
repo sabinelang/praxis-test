@@ -1,6 +1,6 @@
 
 
-Projects include
+## Projects include
 
 The Digital Museum: As the access to digital data (including images) becomes easier and widely available, possibilities for museums to use this data also increase. Virtual exhibitions present art works of various artists or one single artist according to a theme. Because of it being accessible online, it can reach far more people than real-life exhibitions. Also, the virtual exhibition can be enriched with many more info as it may contains links to other websites and further applications.
 
