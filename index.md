@@ -8,7 +8,7 @@ Digitization: Digitization was one key word in previous years. Cultural institut
 
 ### Relevant Literature
 
-#### ### Themen spezifisch
+#### Themen spezifisch
 Alpers, Svetlana : ‘Ut pictura, ita visio’: Kepler’s Model of the Eye and the Nature of Picturing in the North. In: Svetlana Alpers: The Art of Describing. Dutch Art in the Seventeenth Century. Chicago, University of Chicago Press (1983), S. 26-71. 
 
 Arnheim, Rudolf: Kunst und Sehen. Eine Psychologie des schöpferischen Auges. Berlin, de Gruyter (1978). 
